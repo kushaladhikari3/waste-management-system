@@ -10,7 +10,7 @@ By simplifying the process of reporting waste issues, the Waste Management Syste
 
 ### Acknowledgment:
 
-Made by Kushal Adhikari (https://www.linkedin.com/in/kushal-adhikari-b035b0220/) with the help of team and source code from iamlakshay08 (https://github.com/imlakshay08/waste-management-system)
+Recreated by Kushal Adhikari (https://www.linkedin.com/in/kushal-adhikari-b035b0220/) with the help of team and the main code from iamlakshay08 (https://github.com/imlakshay08/waste-management-system)
 
 ### Requirements:
 
